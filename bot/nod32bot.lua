@@ -245,14 +245,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {142910418,179983320,24878907,173345972,126477037},--Sudo users
+	    sudo_users = {161250133},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @HACKANDEVILBOT
-sodu : @Xx_shah_zaq_xX
+channel : @Xx_oldwolf_fuker_X
+sodu : @Xx_king_Oldwolf_Xx
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -317,13 +317,13 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-channel : @HACKANDEVILBOT
+channel : @Xx_oldwolf_fuker_X
 
-sodu : @Xx_shah_zaq_xX
+sodu : @Xx_king_Oldwolf_Xx
 
 ]],
     help_text = [[
-EVILBOT Commands list :
+◎łÐ ω⒪ℓƒ ßѺ✞ Commands list :
  
 1-banhammer list ^
  
@@ -520,9 +520,9 @@ EVILBOT Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel : @HACKANDEVILBOT
+channel : @Xx_oldwolf_fuker_X
 
-sodu : @Xx_shah_zaq_xX
+sodu : @Xx_king_Oldwolf_Xx
 
 G00D LUCK ^_^
 ]]
